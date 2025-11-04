@@ -2,7 +2,7 @@
 
 > A curated list of awesome Orca Note plugins, themes, and resources.
 
-[Orca Note](https://github.com/sethyuan/orca) is a powerful note-taking application. This list aims to help users discover and share the best plugins and resources for Orca Note.
+[Orca Note](https://github.com/sethyuan/orca-note) is a powerful note-taking application. This list aims to help users discover and share the best plugins and resources for Orca Note.
 
 [中文](#中文版) | [English](#english-version)
 
@@ -78,8 +78,7 @@ Beautiful themes to customize the appearance of Orca Note.
 
 #### Official Resources
 
-- [Orca Note Official Repository](https://github.com/sethyuan/orca)
-- [Official Documentation](https://github.com/sethyuan/orca/wiki)
+- [Orca Note Official Repository](https://github.com/sethyuan/orca-note)
 
 #### Tutorials
 
@@ -178,8 +177,7 @@ Your contributions are always welcome! Please read the [contribution guidelines]
 
 #### 官方资源
 
-- [Orca Note 官方仓库](https://github.com/sethyuan/orca)
-- [官方文档](https://github.com/sethyuan/orca/wiki)
+- [Orca Note 官方仓库](https://github.com/sethyuan/orca-note)
 
 #### 教程
 
