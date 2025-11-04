@@ -106,7 +106,7 @@
 
 #### 官方资源
 
-- [官网](https://www.orca-studio.com/orcanote/)
+- [官网](https://www.orca-studio.com/orcanote/zh/)
 - [官方仓库](https://github.com/sethyuan/orca-note)
 - [插件文档](https://www.orca-studio.com/orcanote-docs/documents/Quick_Start.html)
 
