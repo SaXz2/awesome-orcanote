@@ -34,9 +34,9 @@
 
 Plugins that enhance your productivity and workflow.
 
-- **[Simple Task](https://github.com/sethyuan/orca-simple-task)** - A plugin that helps you quickly create tasks using Orca Note's tag system. [@sethyuan](https://github.com/sethyuan)
-
+- **[Flash Cards](https://github.com/Samuelxiaozhuofeng/orca-srs-plugin)** - An SRS (Spaced Repetition System) plugin for Orca Note. [@Samuelxiaozhuofeng](https://github.com/Samuelxiaozhuofeng)
 - **[Random Walk](https://github.com/sethyuan/orca-random-walk)** - A plugin to help you recap/review notes (random-walk review). [@sethyuan](https://github.com/sethyuan)
+- **[Simple Task](https://github.com/sethyuan/orca-simple-task)** - A plugin that helps you quickly create tasks using Orca Note's tag system. [@sethyuan](https://github.com/sethyuan)
 
 #### Note Management
 
@@ -60,9 +60,9 @@ Plugins for importing from or exporting to various formats.
 
 Plugins that integrate Orca Note with other applications and services.
 
-- **[Flomo Sync](https://github.com/sethyuan/orca-flomo-sync)** - Syncs Flomo notes into Orca Note (sync into journals). [@sethyuan](https://github.com/sethyuan)
-
+- **[AI Chat](https://github.com/Samuelxiaozhuofeng/AI-orca-plugin)** - AI chat plugin integration for Orca Note. [@Samuelxiaozhuofeng](https://github.com/Samuelxiaozhuofeng)
 - **[Dinox Sync](https://github.com/sethyuan/orca-dinox-sync)** - Syncs Dinox notes into Orca Note (sync into journals). [@sethyuan](https://github.com/sethyuan)
+- **[Flomo Sync](https://github.com/sethyuan/orca-flomo-sync)** - Syncs Flomo notes into Orca Note (sync into journals). [@sethyuan](https://github.com/sethyuan)
 
 #### Visualization
 
@@ -85,6 +85,7 @@ Beautiful themes to customize the appearance of Orca Note.
 
 - **[Official Themes](https://github.com/sethyuan/orca-plugin-official-themes)** - Official themes for Orca Note; provides installable theme styles. [@sethyuan](https://github.com/sethyuan)
 - **[Tune Theme](https://github.com/cordinGH/orca-tune-theme)** - A custom user theme for Orca Note. [@cordinGH](https://github.com/cordinGH)
+
 ---
 
 ### Resources

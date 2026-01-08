@@ -34,9 +34,9 @@
 
 提升您的生产力和工作流程的插件。
 
-- **[Simple Task](https://github.com/sethyuan/orca-simple-task)** - 帮助你使用 Orca Note 的标签系统快速创建任务的插件。 [@sethyuan](https://github.com/sethyuan)
-
+- **[Flash Cards](https://github.com/Samuelxiaozhuofeng/orca-srs-plugin)** - 为 Orca Note 提供的间隔复习（SRS）插件。 [@Samuelxiaozhuofeng](https://github.com/Samuelxiaozhuofeng)
 - **[Random Walk](https://github.com/sethyuan/orca-random-walk)** - 帮助你回顾/复习笔记的插件（随机漫步复盘）。 [@sethyuan](https://github.com/sethyuan)
+- **[Simple Task](https://github.com/sethyuan/orca-simple-task)** - 帮助你使用 Orca Note 的标签系统快速创建任务的插件。 [@sethyuan](https://github.com/sethyuan)
 
 #### 笔记管理
 
@@ -60,16 +60,16 @@
 
 将 Orca Note 与其他应用程序和服务集成的插件。
 
-- **[Flomo Sync](https://github.com/sethyuan/orca-flomo-sync)** - 将 Flomo 笔记同步到 Orca Note 的插件（同步到日记）。 [@sethyuan](https://github.com/sethyuan)
-
+- **[AI Chat](https://github.com/Samuelxiaozhuofeng/AI-orca-plugin)** - 为 Orca Note 提供的 AI 聊天插件。 [@Samuelxiaozhuofeng](https://github.com/Samuelxiaozhuofeng)
 - **[Dinox Sync](https://github.com/sethyuan/orca-dinox-sync)** - 将 Dinox 笔记同步到 Orca Note 的插件（同步到日记）。 [@sethyuan](https://github.com/sethyuan)
+- **[Flomo Sync](https://github.com/sethyuan/orca-flomo-sync)** - 将 Flomo 笔记同步到 Orca Note 的插件（同步到日记）。 [@sethyuan](https://github.com/sethyuan)
 
 #### 可视化
 
 用于可视化数据、图表和关系的插件。
 
 - **[Dockpanel](https://github.com/cordinGH/orca-dockpanel-plugin)** - 允许将一个面板脱离出来，形成类似于「小窗」的体验。 [@cordinGH](https://github.com/cordinGH)
-- **[Tabsman](https://github.com/cordinGH/orca-tabsman-plugin)** - 在左侧边栏追加一个标签页栏。  [@cordinGH](https://github.com/cordinGH)
+- **[Tabsman](https://github.com/cordinGH/orca-tabsman-plugin)** - 在左侧边栏追加一个标签页栏。 [@cordinGH](https://github.com/cordinGH)
 
 #### 开发工具
 
