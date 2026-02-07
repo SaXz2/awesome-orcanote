@@ -78,6 +78,7 @@
 用于可视化数据、图表和关系的插件。
 
 - **[Dockpanel](https://github.com/cordinGH/orca-dockpanel-plugin)** - 允许将一个面板脱离出来，形成类似于「小窗」的体验。 [@cordinGH](https://github.com/cordinGH)
+- **[Table Layout](https://github.com/sethyuan/orcanote-table-layout)** - 为复杂布局格式化表格块的 Orca Note 插件。 [@sethyuan](https://github.com/sethyuan)
 - **[Tabs](https://github.com/SaXz2/orca-tabs-plugin)** - 标签页显示插件。 [@SaXz2](https://github.com/SaXz2)
 - **[Tabsman](https://github.com/cordinGH/orca-tabsman-plugin)** - 在左侧边栏追加一个标签页栏。 [@cordinGH](https://github.com/cordinGH)
 - **[Tana Tag Color](https://github.com/SaXz2/orca-tana-tag-color-plugin)** - 仿照 Tana 风格，使用第一个标签为块的无序点应用颜色和图标。 [@SaXz2](https://github.com/SaXz2)

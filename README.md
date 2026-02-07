@@ -78,6 +78,7 @@ Plugins that integrate Orca Note with other applications and services.
 Plugins for visualizing data, graphs, and relationships.
 
 - **[Dockpanel](https://github.com/cordinGH/orca-dockpanel-plugin)** - Allows detaching a panel to create a "floating window"-like experience. [@cordinGH](https://github.com/cordinGH)
+- **[Table Layout](https://github.com/sethyuan/orcanote-table-layout)** - An Orca Note plugin that formats table blocks for complex layouts. [@sethyuan](https://github.com/sethyuan)
 - **[Tabs](https://github.com/SaXz2/orca-tabs-plugin)** - Tab display plugin. [@SaXz2](https://github.com/SaXz2)
 - **[Tabsman](https://github.com/cordinGH/orca-tabsman-plugin)** - Adds a tab bar to the left sidebar. [@cordinGH](https://github.com/cordinGH)
 - **[Tana Tag Color](https://github.com/SaXz2/orca-tana-tag-color-plugin)** - Applies Tana-style colors and icons to blocks based on their first tag. [@SaXz2](https://github.com/SaXz2)
